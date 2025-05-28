@@ -1,24 +1,4 @@
 body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.level-button, .chapter-button {
-    display: inline-block;
-    padding: 15px 30px;
-    text-decoration: none;
-    color: white;
-    border-radius: 5px;
-    margin: 10px;
-    transition: background-color 0.3s;
-}
-
-.level-button:hover, .chapter-button:hover {
-    opacity: 0.8;
-}
-
-body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     color: #4b3c3c;
